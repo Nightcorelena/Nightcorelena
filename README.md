@@ -30,8 +30,6 @@
 <br/>
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcorelena&layout=compact&hide=html" alt="nightcorelena" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightcorelena&show_icons=true" alt="nightcorelena" /></p>
 
 [twitter]: https://twitter.com/NightcoreLena
