@@ -1,8 +1,8 @@
-### hi there, i'm Lena - aka [CodingLena](https://www.youtube.com/channel/UC96l38jCt4KIhlC9RZR4Obg)
+### hi there, i'm Lena - aka [CodingLena](https://www.youtube.com/channel/UC96l38jCt4KIhlC9RZR4Obg) - aka [NightcoreLena](https://youtube.com/nightcorelena)
 ### i'm are Developer and Youtuber
 - 🙇 I am now working on a chat app
 - 🔥 My hobby is surfing and programming
-- 🔨 my programming languages are (Html,css,Php,js,node.js,coffeescript)
+- 🔨 my programming languages are (Html, Css, Php, Ejs, TypeScript, JavaScript, CoffeeScript, Python)
 - ❄ i love Hardstyle and Nightcore Music 
 - 😁 i don't live without my coffee :3
 
@@ -23,6 +23,16 @@
 
 ### Contact me:
 
+- [Twitter](https://twitter.com/NightcoreLena)
+- [Youtube](https://youtube.com/c/NightcoreLena)
+- [Instagram](https://instagram.com/nightcore_lena)
+- [Discord](https://discord.gg/5Bc2ErQ)
+- [Tellonym](https://tellonym.me/Nightcore_lena)
+
+---
+
+### My Stats:
+
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/c/NightcoreLena)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/NightcoreLena)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/nightcore_lena)
@@ -30,8 +40,6 @@
 <br/>
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightcorelena&show_icons=true" alt="nightcorelena" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nightcorelena&show_icons=true&theme=tokyonight" alt="nightcorelena" /></p>
 
-[twitter]: https://twitter.com/NightcoreLena
-[youtube]: https://youtube.com/c/NightcoreLena
-[instagram]: https://instagram.com/nightcore_lena
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcorelena&langs_count=8&theme=tokyonight">
