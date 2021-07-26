@@ -1,10 +1,10 @@
 ### hi there, i'm Lena - aka [CodingLena](https://www.youtube.com/channel/UC96l38jCt4KIhlC9RZR4Obg) - aka [NightcoreLena](https://youtube.com/nightcorelena)
-### i'm are Developer and Youtuber
-- 🙇 I am now working on a chat app
+### i'm a Developer and Youtuber
+- 🙇 I'm now working on a chat app
 - 🔥 My hobby is surfing and programming
 - 🔨 my programming languages are (Html, Css, Php, Ejs, TypeScript, JavaScript, CoffeeScript, Python)
 - ❄ i love Hardstyle and Nightcore Music 
-- 😁 i don't live without my coffee :3
+- 😁 i can't live without my coffee :3
 
 ---
 
